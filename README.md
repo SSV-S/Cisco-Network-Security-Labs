@@ -1,4 +1,4 @@
-# Cisco Network Security Portfolio
+# Cisco Network Security Labs
 
 This repository showcases practical Cisco network security labs focused on secure device administration, Layer 2 protection, access control, traffic filtering, packet analysis, and site-to-site VPN configuration.
 
